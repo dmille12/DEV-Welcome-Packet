@@ -8,6 +8,7 @@ Open a ticket with IT to get copies of the servercentral.com SSL certificate
 Determine which system will be the new hire’s mysql system—typically the “inventory system” is chosen.
 
 Install mysql-server on it: 
+
   apt-get mysql-server
 
 Import the five (5) DB’s (the new hire will need to ask IT for backups of the current QA DB’s)
